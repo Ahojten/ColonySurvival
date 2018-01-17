@@ -9,7 +9,7 @@
 			"settings" : "Nastavení"
 		},
 		"firstpersonstats" : {
-			"ammocount" : "_MISSING_Ammo:",
+			"ammocount" : "Střelivo:",
 			"bedcount" : "Postele:",
 			"colonistcount" : "Kolonisti:",
 			"foodstorage" : "Jídlo:",
@@ -56,10 +56,10 @@
 			"startserver" : "Spusť server"
 		},
 		"pipliz" : {
-			"baseresearch" : {
-				"archery" : {
-					"description" : "_MISSING_Unlocks bow guards and production of bows at the workbench",
-					"name" : "_MISSING_Archery"
+			"výzkum" : {
+				"Lukostřelba" : {
+					"description" : "Odemyká lučištníky a možnost vyrábění luků.",
+					"name" : "Lukostřelba"
 				},
 				"bannerradius1" : {
 					"description" : "_MISSING_Increases the safe radius created to 40 blocks",
@@ -85,25 +85,25 @@
 					"description" : "_MISSING_Unlock the Bloomery, which can process iron ore & galena ore",
 					"name" : "_MISSING_Bloomery"
 				},
-				"bronzeanvil" : {
-					"description" : "_MISSING_Unlock the Bronze Anvil, which can process bronze",
-					"name" : "_MISSING_Bronze Anvil"
+				"Bronzová kovadlina" : {
+					"description" : "Odemyká bronzovou kovadlinu, která umožňuje zpracovávat bronz.",
+					"name" : "Bronzová kovadlina"
 				},
-				"bronzeminting" : {
-					"description" : "_MISSING_Unlocks mints and shops. Can be used to buy seeds, dirt and other miscellaneous items",
-					"name" : "_MISSING_Mints & Shops"
+				"Obchody a mincovny" : {
+					"description" : "Odemyká mincovnu a obchod. Může být použit k nakupování semínek, hlíny a různých věcí.",
+					"name" : "Mincovny & obchody"
 				},
-				"crossbow" : {
-					"description" : "_MISSING_Unlocks the Crossbow, a more powerful weapon than the bow",
+				"Kuše" : {
+					"description" : "Odemyká kuši, která je více účinná, než luky.",
 					"name" : "_MISSING_Crossbow"
 				},
-				"crossbowbolt" : {
-					"description" : "_MISSING_Unlocks Crossbow Bolts",
-					"name" : "_MISSING_Crossbow Bolts"
+				"Šípy do kuše" : {
+					"description" : "Odemyká šípy do kuše.",
+					"name" : "Šípy do kuše"
 				},
-				"dyertable" : {
-					"description" : "_MISSING_Unlocks the dyer, who can use herbs to paint certain blocks and lanterns",
-					"name" : "_MISSING_Dyer's Table"
+				"Barvič" : {
+					"description" : "Odemyká barviče, který používá byliny na barvení určitých bloků a lucern.",
+					"name" : "Barvič"
 				},
 				"fineryforge" : {
 					"description" : "_MISSING_Unlocks the Finery Forge, which uses cokes to create steel and gold ingots",
