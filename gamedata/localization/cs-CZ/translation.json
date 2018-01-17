@@ -9,7 +9,7 @@
 			"settings" : "Nastavení"
 		},
 		"firstpersonstats" : {
-			"ammocount" : "_MISSING_Ammo:",
+			"ammocount" : "Střelivo:",
 			"bedcount" : "Postele:",
 			"colonistcount" : "Kolonisti:",
 			"foodstorage" : "Jídlo:",
@@ -56,10 +56,10 @@
 			"startserver" : "Spusť server"
 		},
 		"pipliz" : {
-			"baseresearch" : {
-				"archery" : {
-					"description" : "_MISSING_Unlocks bow guards and production of bows at the workbench",
-					"name" : "_MISSING_Archery"
+			"Výzkum" : {
+				"Lukostřelba" : {
+					"description" : "Odemyká lučištníky a výrobu šípů.",
+					"name" : "Lukostřelba"
 				},
 				"bannerradius1" : {
 					"description" : "_MISSING_Increases the safe radius created to 40 blocks",
@@ -252,47 +252,47 @@
 				"craftingstockpile" : "_MISSING_Crafting & Stockpile",
 				"foodvalue" : "Hodnota jídla:",
 				"science" : {
-					"available" : "_MISSING_Available",
-					"completed" : "_MISSING_Completed",
-					"dependencies" : "_MISSING_Required technologies:",
+					"available" : "Dostupné",
+					"completed" : "Dokončené",
+					"dependencies" : "_Vyžadované zkoumání:",
 					"header" : "_MISSING_Science",
-					"iterations" : "_MISSING_Research cycles: {0} out of {1}",
-					"placelab" : "_MISSING_Place a Science Lab to recruit a scientist",
-					"requirements" : "_MISSING_Requirements for one research cycle:",
-					"researchactive" : "_MISSING_Current research: {0}",
-					"researchselected" : "_MISSING_Select to research",
-					"unavailable" : "_MISSING_Unavailable"
+					"iterations" : "Dokončené části výzkumu: {0} z {1}",
+					"placelab" : "Položte vědecký pracovní stůl, abyste rekrutovali vědce",
+					"requirements" : "Potřeby pro jednu část výzkumu:",
+					"researchactive" : "Právě se zkoumá: {0}",
+					"researchselected" : "Vybrat k výzkumu",
+					"unavailable" : "Nedostupné"
 				},
 				"stockpiledescription" : "Můžete vyrábět předměty pouze z věcí umístěných v dolních slotech. Kolonisti mohou používat věci pouze z vašich zásob.",
 				"tooltip" : {
 					"and" : "a",
-					"instockpile" : "_MISSING_in stockpile",
+					"instockpile" : "V zásobách",
 					"needs" : "Potřebuje: "
 				}
 			},
 			"limits" : {
 				"description" : "Kolonisti budou pracovat dokud nebude dosaženo daného počtu v zásobách.",
 				"hoverpriority" : {
-					"a" : "_MISSING_Crafting Priority",
-					"b" : "_MISSING_Recipes with a +++ priority are crafted first.\nRecipes with a + priority are crafted last."
+					"a" : "Priorita vyrábění",
+					"b" : "Věci s prioritou +++ jsou vyráběné první.\Věci s prioritou + jsou vyráběny poslední."
 				},
 				"pipliz" : {
 					"baker" : "Limity pečení",
 					"bloomeryjob" : "_MISSING_Bloomery limits",
 					"crafter" : "Limity výroby",
-					"dyer" : "_MISSING_Dyeing limits",
-					"fineryforgejob" : "_MISSING_Finery forge limits",
+					"dyer" : "Limity barvení",
+					"fineryforgejob" : "Limity tavení",
 					"grinder" : "Limity mletí mouky",
-					"gunsmithjob" : "_MISSING_Gunsmith limits",
-					"kilnjob" : "_MISSING_Kiln limits",
+					"gunsmithjob" : "Limity výroby střelného prachu",
+					"kilnjob" : "Limity výroby paliva",
 					"merchant" : "Limity nákupu",
 					"metalsmithjob" : "_MISSING_Metalsmith limits",
 					"minter" : "Limity řezání",
 					"smelter" : "Limity tavení rudy",
 					"stonemason" : "_MISSING_Masonry limits",
-					"tailor" : "_MISSING_Tailoring limits",
-					"technologist" : "_MISSING_Technologist limits",
-					"woodcutter" : "_MISSING_Wood cutting limits"
+					"tailor" : "Limity šití",
+					"technologist" : "Limity vědeckých tašek",
+					"woodcutter" : "Limity sekání dřeva"
 				}
 			},
 			"quickstart" : {
@@ -303,9 +303,9 @@
 				"previous" : "Předchozí"
 			},
 			"specialblockremoval" : {
-				"button" : "_MISSING_Remove",
-				"description" : "_MISSING_Removing this block of type {0} may cause problems for a colony. What do you want to do?",
-				"header" : "_MISSING_Special Block removal"
+				"button" : "Odstranit",
+				"description" : "Odstraňování tohoto bloku {0} může způsobit problémy vaší kolonie. Chcete ho obravdu odstranit?",
+				"header" : "Odstraňování speciálního bloku"
 			},
 			"toolconstruction" : {
 				"builder" : "Stavitel",
@@ -349,9 +349,9 @@
 				"guardsday" : "_MISSING_Daytime guards",
 				"guardsnight" : "_MISSING_Nighttime guards",
 				"header" : "Nástroj pro příkazy",
-				"hollyhockfarmer" : "_MISSING_Hollyhock Farmer",
-				"hollyhockfarmertool" : "_MISSING_Hollyhock Farmer Tool",
-				"hollyhockfarmertooltip" : "_MISSING_Needs: Hollyhock Seeds\nPlace on grass or dirt",
+				"hollyhockfarmer" : "Farmář topolovky",
+				"hollyhockfarmertool" : "Nástroj farmáře topolovky",
+				"hollyhockfarmertooltip" : "_MISSING_Potřebuje: Semínka topolovky\nPoložte na trávu nebo hlínu",
 				"jobbowday" : "_MISSING_Daytime Bow Guard",
 				"jobbownight" : "_MISSING_Nighttime Bow Guard",
 				"jobcrossbowday" : "_MISSING_Daytime Crossbow Guard",
@@ -391,7 +391,7 @@
 				"text1" : "_MISSING_The banner is the center of your colony. Press '2' to plant it. Right-click the banner to recruit colonists. The Banner Tool highlights the area where monsters spawn in red.",
 				"text2" : "Potřebujete jídlo a postele pro rekrutování kolonistů. Kolonisté potřebují jíst aby přežili. Ujistěte se, že máte dostatek jídla nebo budou hladovět!",
 				"text3" : "Stiskněte \"I\" pro vyrobení postele. Můžete vyrábět předměty pouze z věcí umístěných v dolních slotech. Kolonisté mohou používat předměty pouze ze zásob. K přístupu k zásobám používají bedny.",
-				"text4" : "_MISSING_Monsters will attack your colony at night! Use the Command Tool to place guards. Press '1' and click to select it. Press 'R' to rotate certain blocks."
+				"text4" : "V noci budou na vaší kolonii útočit monstra! Použijte nástroj pro příkazy abyste zaměstnali strážce. Stiskněte "1" a vyberte strážce. Stiskněte "R", abyste je otočili. "
 			},
 			"page2" : {
 				"description" : "Budete potřebovat jídlo aby jste rekrutovali a udrželi kolonisty!",
@@ -404,7 +404,7 @@
 				"description" : "Braňte svou kolonii před nočními útoky monster!",
 				"header" : "Obrana kolonie",
 				"text1" : "V noci se budou snažit monstra zaútočit na vaší kolonii. Položte strážce, postavte zdi a vykopejte příkopy aby jste ubránili svojí kolonii. Monstra nevyšplhají přes dva bloky.",
-				"text2" : "Do not completely isolate your colony! Pokud není k vašemu praporu žádná cesta, aktivuje se 'Režim Obležení'. Během Režimu Obležení je vaše jídlo velice rychle konzumováno.",
+				"text2" : "Neizolujte kompletně vaší kolonii! Pokud není k vašemu praporu žádná cesta, aktivuje se 'Režim Obležení'. Během Režimu Obležení je vaše jídlo velice rychle konzumováno.",
 				"text3" : "_MISSING_The amount of monsters increases when the amount of colonists grows! Make sure your guards have enough missiles!",
 				"text4" : "_MISSING_Defeat stronger monsters by unlocking new weapons with the Science Lab. They inflict more damage and can hit monsters from a longer distance."
 			},
